@@ -1,7 +1,7 @@
 #include<windows.h>
 #include <GL/glut.h>
 #include <GL/glu.h>
-#include <stdlib.h>q
+#include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
 #define PI 3.1416
