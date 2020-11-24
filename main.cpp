@@ -344,7 +344,7 @@ glPushMatrix();
 glTranslatef(-44,39,0);
 glScalef(0.45,0.65,0);
 drawCircle(5.5);
-glPopMatrix();  // 1st cloud end
+glPopMatrix();  // 1st cloud ends
 
 
 glPushMatrix(); //2nd cloud start
